@@ -1,4 +1,4 @@
-# Sales Opportunity & Revenue Analysis (Power BI Project)
+# Sales Opportunity & Revenue Analysis (A Power BI Project)
 
 ## 📌 Project Overview
 
