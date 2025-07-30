@@ -57,5 +57,4 @@ The dataset includes:
 * Dashboard design for business insights.
 * Use of Power BI AI features (Key Influencers, Anomaly Detection).
 * Data modeling and transformation using Power Query.
-* KPI tracking and advanced DAX calculations.
 * Trend, segmentation, and campaign performance analysis.
