@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes **sales opportunities and revenue performance** using Microsoft Power BI. It leverages a sample dataset (likely from Contoso) containing information on products, campaigns, regions, and managers. The primary goal is to develop interactive dashboards that reveal insights into revenue trends, win/loss factors, and campaign effectiveness.
+This project analyzes **sales opportunities and revenue performance** using Microsoft Power BI. It leverages a sample dataset (Contoso) containing information on products, campaigns, regions, and managers. The primary goal is to develop interactive dashboards that reveal insights into revenue trends, win/loss factors, and campaign effectiveness.
 
 ## 🎯 Objectives
 
